@@ -1,0 +1,8 @@
+docs
+joss
+landlab
+news
+notebooks
+pip-wheel-metadata
+scripts
+tests
